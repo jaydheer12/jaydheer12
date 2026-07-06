@@ -4,17 +4,21 @@
 
 </div>
 
-<h3 align="center">
-Hi 👋 I'm Palika Jaydheer
-</h3>
+<h1 align="center">Hi 👋, I'm Palika Jaydheer</h1>
 
-<h4 align="center">
+<h3 align="center">
 Full Stack Developer • Python Developer • Aspiring AI Engineer
-</h4>
+</h3>
 
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Python+Developer;Aspiring+AI+Engineer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jaydheer12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -28,11 +32,11 @@ Full Stack Developer • Python Developer • Aspiring AI Engineer
 
 📍 Kakinada, Andhra Pradesh, India
 
-💻 Passionate about developing real-world web applications using Python and modern web technologies.
+💻 Passionate Full Stack Developer with a strong interest in Python, Web Development, Data Analytics, and Artificial Intelligence.
 
-🚀 Interested in Full Stack Development and Artificial Intelligence.
+🚀 I enjoy building practical web applications that solve real-world problems.
 
-🌱 Always learning new technologies and improving problem-solving skills.
+📚 Continuously learning new technologies and improving my programming skills.
 
 🎯 Looking for opportunities as a Full Stack Developer or AI Engineer.
 
@@ -51,7 +55,7 @@ Full Stack Developer • Python Developer • Aspiring AI Engineer
 </a>
 
 <a href="https://linkedin.com/in/jaydheerpalika">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/jaydheerpalika">
@@ -71,37 +75,31 @@ Full Stack Developer • Python Developer • Aspiring AI Engineer
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
-
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-## 🗄️ Database
+## 🗄 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 🧰 Tools & Platforms
+## 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 💡 Interests
 
-- 🌐 Web Design & Development
+- 🌐 Web Development
 - 🤖 Artificial Intelligence
+- 📊 Data Analytics
 - 📈 Financial Markets
-- 📚 Continuous Learning
 
 ---
 # 🚀 Featured Projects
@@ -111,19 +109,21 @@ Full Stack Developer • Python Developer • Aspiring AI Engineer
 
 <td width="50%">
 
-### 🎓 Student Performance Analysis
+## 🎓 Student Performance Analysis
 
-A web application built using **Python**, **Pandas**, and **Streamlit** to analyze student academic performance through interactive visualizations and insights.
+A Streamlit-based analytics application that helps analyze student academic performance through interactive visualizations and meaningful insights.
 
-#### ✨ Key Features
-- 📂 Upload CSV datasets
-- 📊 Performance analytics
-- 📈 Interactive charts
-- 📉 Data visualization
-- ⚡ User-friendly dashboard
+### ✨ Key Features
 
-#### 🛠️ Technologies
-Python • Pandas • Streamlit
+- 📂 CSV Upload
+- 📊 Performance Analysis
+- 📈 Interactive Charts
+- 📉 Data Visualization
+- ⚡ Dashboard
+
+### 🛠 Technologies
+
+**Python • Pandas • Streamlit**
 
 <p align="center">
 
@@ -132,7 +132,7 @@ Python • Pandas • Streamlit
 </a>
 
 <a href="https://k7ncnkrrmc8su9qwsxuyrn.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
 </a>
 
 </p>
@@ -141,24 +141,25 @@ Python • Pandas • Streamlit
 
 <td width="50%">
 
-### 🛒 E-Commerce Product Data Cleaning Dashboard
+## 🛒 E-Commerce Product Data Cleaning Dashboard
 
-A Streamlit dashboard that automates e-commerce dataset preprocessing by cleaning product data, handling missing values, removing duplicates, generating statistics, predicting missing prices, and creating downloadable PDF reports.
+A professional data analytics application developed using Python and Streamlit that automates cleaning, preprocessing, analyzing, and reporting of e-commerce datasets.
 
-#### ✨ Key Features
+### ✨ Key Features
 
 - 📂 CSV Upload
 - 🧹 Data Cleaning
 - 🔍 Missing Value Detection
 - 🔄 Duplicate Removal
 - 💰 Price Prediction
-- 📊 Dataset Statistics
-- 📈 Interactive Dashboard
+- 📊 Interactive Dashboard
+- 📈 Data Visualization
 - 📄 PDF Report Generation
+- 📥 Cleaned Dataset Download
 
-#### 🛠️ Technologies
+### 🛠 Technologies
 
-Python • Pandas • NumPy • Streamlit • ReportLab
+**Python • Pandas • NumPy • Streamlit • ReportLab**
 
 <p align="center">
 
@@ -167,7 +168,7 @@ Python • Pandas • NumPy • Streamlit • ReportLab
 </a>
 
 <a href="https://ecommerce-bn7gra5ar7azp9othhf9j4.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
 </a>
 
 </p>
@@ -180,20 +181,20 @@ Python • Pandas • NumPy • Streamlit • ReportLab
 
 <td colspan="2">
 
-### 🎬 Movie Review Portal
+## 🎬 Movie Review Portal
 
-A responsive movie review platform where users can browse movies, submit ratings, and write reviews using an intuitive interface.
+A responsive movie review platform where users can browse movies, rate films, and share reviews using an interactive interface.
 
-#### ✨ Key Features
+### ✨ Key Features
 
 - ⭐ Movie Ratings
-- ✍️ User Reviews
-- 🎬 Movie Listing
-- 📱 Responsive Interface
+- ✍ User Reviews
+- 🎬 Movie Listings
+- 📱 Responsive Design
 
-#### 🛠️ Technologies
+### 🛠 Technologies
 
-Python • Streamlit
+**Python • Streamlit**
 
 <p align="center">
 
@@ -202,7 +203,7 @@ Python • Streamlit
 </a>
 
 <a href="https://movie-review-yuxr32nmdkfsyj8ca8fafs.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
 </a>
 
 </p>
@@ -210,33 +211,61 @@ Python • Streamlit
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 # 💼 Internship Experience
 
-## 🚀 MERN Stack Developer Intern
+## 🎓 Data Analytics Using Python Intern (Final Year Internship)
+
+### 🏢 Aditya Degree College
+
+📅 **2026**
+
+Successfully completed my final-year internship by developing an **E-Commerce Product Data Cleaning Dashboard**, applying Python and data analytics techniques to solve real-world data preprocessing challenges.
+
+### 🔹 Responsibilities
+
+- 🐍 Developed backend logic using Python.
+- 📂 Built CSV upload and processing modules.
+- 🧹 Automated data cleaning and preprocessing.
+- 🔍 Detected missing values and duplicate records.
+- 📊 Generated statistical summaries.
+- 💰 Implemented price prediction.
+- 📈 Built interactive dashboards using Streamlit.
+- 📄 Generated downloadable PDF reports.
+- 🧪 Tested application functionality.
+- 📝 Prepared technical documentation.
+
+### 🛠 Technologies
+
+**Python • Pandas • NumPy • Streamlit • ReportLab • Matplotlib**
+
+---
+
+## 💻 MERN Stack Developer Intern
 
 ### 🏢 ADHOC Network Technologies
 
 📅 **April 2025 – June 2025**
 
-Successfully completed a MERN Stack internship where I contributed to the development of an **E-Commerce Product Data Cleaning Dashboard** and gained practical experience in Python application development, backend logic, data preprocessing, dashboard development, testing, and technical documentation.
+Completed a MERN Stack internship and gained practical experience in web application development, frontend technologies, version control, and collaborative software development.
 
 ### 🔹 Responsibilities
 
-- ⚙️ Developed backend logic using Python.
-- 📂 Implemented CSV file upload and processing.
-- 🧹 Built automated data cleaning modules.
-- 📊 Calculated dataset statistics.
-- 🔍 Detected missing values and duplicate records.
-- 💰 Implemented price prediction functionality.
-- 📄 Developed PDF report generation.
-- 📈 Created interactive Streamlit dashboards.
-- 🧪 Performed application testing and validation.
-- 📝 Prepared technical documentation.
-- 🤝 Collaborated with team members during project development.
+- 🌐 Developed responsive web pages.
+- 🎨 Worked with HTML, CSS and JavaScript.
+- 🐘 Developed dynamic pages using PHP.
+- 🛠 Fixed application bugs and improved performance.
+- 🔄 Used Git & GitHub for version control.
+- 🤝 Worked collaboratively with the development team.
+- 📚 Learned software development lifecycle and industry best practices.
+
+### 🛠 Technologies
+
+**HTML • CSS • JavaScript • PHP • Git • GitHub**
 
 ---
 
@@ -295,6 +324,7 @@ Successfully completed a MERN Stack internship where I contributed to the develo
 | Business Writing | edX |
 | MePro Pearson Certification | Pearson |
 | MERN Stack Developer Internship | ADHOC Network Technologies |
+| Data Analytics Using Python Internship | Aditya Degree College |
 
 </div>
 
@@ -302,54 +332,29 @@ Successfully completed a MERN Stack internship where I contributed to the develo
 
 # 🌱 Currently Learning
 
-<table>
+<div align="center">
 
-<tr>
+| 📚 Learning | 🎯 Goal |
+|-------------|---------|
+| Artificial Intelligence | Build AI-powered applications |
+| Machine Learning | Develop intelligent systems |
+| Data Structures & Algorithms | Improve problem-solving |
+| Cloud Computing | Learn cloud deployment |
+| Advanced Python | Write scalable applications |
+| Software Engineering | Follow industry best practices |
 
-<td>
-
-### 📚 Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Cloud Computing
-- Advanced Python
-- Software Engineering Best Practices
-
-</td>
-
-<td>
-
-### 🎯 Focus Areas
-
-- Building Full Stack Applications
-- AI-Powered Solutions
-- Problem Solving
-- Backend Development
-- Clean Code Practices
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
 # 🎯 Career Goals
 
-✅ Become a Professional Full Stack Developer
-
-✅ Build AI-Powered Applications
-
-✅ Master Backend Development
-
-✅ Contribute to Open Source
-
-✅ Continuously Learn New Technologies
-
-✅ Secure a Software Engineer / Full Stack Developer Role
+- 💼 Become a Professional Full Stack Developer
+- 🤖 Build AI-Powered Applications
+- 📊 Develop Data Analytics Solutions
+- 🌍 Contribute to Open Source Projects
+- 📚 Continuously Learn Emerging Technologies
+- 🚀 Secure a Software Engineer / Full Stack Developer Role
 
 ---
 
@@ -358,7 +363,7 @@ Successfully completed a MERN Stack internship where I contributed to the develo
 - 🌐 Full Stack Development Projects
 - 🐍 Python Projects
 - 🤖 Artificial Intelligence Projects
-- 📊 Data Analysis Projects
+- 📊 Data Analytics Projects
 - 🚀 Startup Ideas
 - 💼 Freelance Opportunities
 - 🌍 Open Source Contributions
@@ -403,19 +408,9 @@ Successfully completed a MERN Stack internship where I contributed to the develo
 
 ---
 
-# 📅 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydheer12&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
-> **Enable this animation by creating a GitHub Actions workflow in your profile repository.**
+> **Note:** To enable this animation, add a GitHub Actions workflow to your profile repository.
 
 <p align="center">
 
@@ -425,11 +420,21 @@ Successfully completed a MERN Stack internship where I contributed to the develo
 
 ---
 
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jaydheer12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</p>
+
+---
+
 # 💬 Favorite Quote
 
 <div align="center">
 
-### *"Learning never stops. Every project is an opportunity to improve, innovate, and grow."*
+### *"Success is built one project at a time. Keep learning, keep building, and never stop improving."*
 
 </div>
 
@@ -437,15 +442,15 @@ Successfully completed a MERN Stack internship where I contributed to the develo
 
 # ❤️ Support My Work
 
-If you find my projects helpful, please consider giving them a ⭐ on GitHub.
+If you enjoy my projects, please consider giving them a ⭐ on GitHub.
 
-It motivates me to continue learning and building better applications.
+Your support motivates me to keep learning, building, and sharing better software.
 
 ---
 
 <div align="center">
 
-## 🙏 Thank You for Visiting My Profile
+## 🙏 Thank You for Visiting My Profile!
 
 ### ⭐ Happy Coding! ⭐
 
