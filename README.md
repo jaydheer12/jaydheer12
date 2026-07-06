@@ -1,66 +1,46 @@
-<!-- ========================================================= -->
-<!--              GITHUB PROFILE README - PART 1               -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Palika%20Jaydheer&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Aspiring%20AI%20Engineer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Palika%20Jaydheer&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Aspiring%20AI%20Engineer&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
-<div align="center">
+<h3 align="center">
+Hi 👋 I'm Palika Jaydheer
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Aspiring+AI+Engineer;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<h4 align="center">
+Full Stack Developer • Python Developer • Aspiring AI Engineer
+</h4>
 
-</div>
+<p align="center">
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Python+Developer;Aspiring+AI+Engineer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 
-![](https://komarev.com/ghpvc/?username=jaydheer12&style=for-the-badge&color=blue)
-
-</div>
+</p>
 
 ---
 
-# 👋 Hello, I'm Palika Jaydheer
-
-💻 **Full Stack Developer**
-
-🤖 **Aspiring AI Engineer**
-
-🎓 **BCA Graduate**
-
-📍 **Kakinada, Andhra Pradesh, India**
-
----
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 # 💫 About Me
 
-I am a passionate **BCA Graduate** with a strong interest in **Full Stack Web Development**, **Python Development**, and **Artificial Intelligence**.
+🎓 BCA Graduate from Aditya Degree College
 
-I enjoy designing and developing modern, user-friendly web applications that solve real-world problems.
+📍 Kakinada, Andhra Pradesh, India
 
-I continuously improve my skills by building practical projects, learning modern technologies, and exploring innovative software solutions.
+💻 Passionate about developing real-world web applications using Python and modern web technologies.
 
-Currently, I am focused on becoming an industry-ready **Full Stack Developer** while expanding my knowledge in **Artificial Intelligence** and modern web technologies.
+🚀 Interested in Full Stack Development and Artificial Intelligence.
 
----
+🌱 Always learning new technologies and improving problem-solving skills.
 
-# 🎯 Career Objective
-
-I am looking for opportunities as a
-
-- 💼 Full Stack Developer
-- 🤖 AI Engineer
-- 🐍 Python Developer
-
-where I can contribute to meaningful projects, continuously learn new technologies, and grow as a software professional.
+🎯 Looking for opportunities as a Full Stack Developer or AI Engineer.
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
 
 <a href="mailto:jaydheerpalika@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -71,14 +51,14 @@ where I can contribute to meaningful projects, continuously learn new technologi
 </a>
 
 <a href="https://linkedin.com/in/jaydheerpalika">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/jaydheerpalika">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
@@ -86,71 +66,33 @@ where I can contribute to meaningful projects, continuously learn new technologi
 
 ## 👨‍💻 Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ## 🎨 Frontend Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🗄️ Database
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🧰 Tools & Platforms
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=streamlit"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -165,73 +107,70 @@ where I can contribute to meaningful projects, continuously learn new technologi
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-## 🎓 Student Performance Analysis
+### 🎓 Student Performance Analysis
 
-A web-based analytics application that helps analyze student academic performance through interactive visualizations and meaningful insights.
+A web application built using **Python**, **Pandas**, and **Streamlit** to analyze student academic performance through interactive visualizations and insights.
 
-### ✨ Features
+#### ✨ Key Features
+- 📂 Upload CSV datasets
+- 📊 Performance analytics
+- 📈 Interactive charts
+- 📉 Data visualization
+- ⚡ User-friendly dashboard
 
-- 📊 Performance Analysis
-- 📈 Interactive Charts
-- 📂 CSV Dataset Support
-- 📉 Data Visualization
-- ⚡ Fast Dashboard
-
-### 🛠 Tech Stack
-
+#### 🛠️ Technologies
 Python • Pandas • Streamlit
 
-### 🔗 Repository
+<p align="center">
 
 <a href="https://github.com/jaydheer12/Student-Performance-Analysis-BootCamp-">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
-
-### 🌐 Live Demo
 
 <a href="https://k7ncnkrrmc8su9qwsxuyrn.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Demo-0E75B6?style=for-the-badge"/>
 </a>
+
+</p>
 
 </td>
 
 <td width="50%">
 
-## 🛒 E-Commerce Product Data Cleaning Dashboard
+### 🛒 E-Commerce Product Data Cleaning Dashboard
 
-A comprehensive Streamlit dashboard for cleaning, preprocessing, analyzing, and generating reports from e-commerce datasets.
+A Streamlit dashboard that automates e-commerce dataset preprocessing by cleaning product data, handling missing values, removing duplicates, generating statistics, predicting missing prices, and creating downloadable PDF reports.
 
-### ✨ Features
+#### ✨ Key Features
 
 - 📂 CSV Upload
 - 🧹 Data Cleaning
 - 🔍 Missing Value Detection
 - 🔄 Duplicate Removal
 - 💰 Price Prediction
-- 📈 Data Visualization
+- 📊 Dataset Statistics
+- 📈 Interactive Dashboard
 - 📄 PDF Report Generation
-- 📥 Download Cleaned Dataset
 
-### 🛠 Tech Stack
+#### 🛠️ Technologies
 
 Python • Pandas • NumPy • Streamlit • ReportLab
 
-### 🔗 Repository
+<p align="center">
 
 <a href="https://github.com/jaydheer12/Ecommerce">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
-
-### 🌐 Live Demo
 
 <a href="https://ecommerce-bn7gra5ar7azp9othhf9j4.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Demo-0E75B6?style=for-the-badge"/>
 </a>
+
+</p>
 
 </td>
 
@@ -241,37 +180,36 @@ Python • Pandas • NumPy • Streamlit • ReportLab
 
 <td colspan="2">
 
-## 🎬 Movie Review Portal
+### 🎬 Movie Review Portal
 
-A responsive movie review web application where users can explore movies, submit ratings, and write reviews through an intuitive interface.
+A responsive movie review platform where users can browse movies, submit ratings, and write reviews using an intuitive interface.
 
-### ✨ Features
+#### ✨ Key Features
 
 - ⭐ Movie Ratings
 - ✍️ User Reviews
-- 🎥 Movie Listings
-- 📱 Responsive UI
+- 🎬 Movie Listing
+- 📱 Responsive Interface
 
-### 🛠 Tech Stack
+#### 🛠️ Technologies
 
 Python • Streamlit
 
-### 🔗 Repository
+<p align="center">
 
 <a href="https://github.com/jaydheer12/Movie-Review">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
-
-### 🌐 Live Demo
 
 <a href="https://movie-review-yuxr32nmdkfsyj8ca8fafs.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-Demo-0E75B6?style=for-the-badge"/>
 </a>
+
+</p>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -282,21 +220,23 @@ Python • Streamlit
 
 ### 🏢 ADHOC Network Technologies
 
-📅 **Duration:** April 2025 – June 2025
+📅 **April 2025 – June 2025**
 
-Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to backend development, data processing, dashboard functionality, and documentation.
+Successfully completed a MERN Stack internship where I contributed to the development of an **E-Commerce Product Data Cleaning Dashboard** and gained practical experience in Python application development, backend logic, data preprocessing, dashboard development, testing, and technical documentation.
 
-### 🔥 Responsibilities
+### 🔹 Responsibilities
 
-- ⚙️ Developed backend application logic using Python.
+- ⚙️ Developed backend logic using Python.
 - 📂 Implemented CSV file upload and processing.
-- 🧹 Built automated data cleaning modules for handling missing values, duplicate records, and inconsistent data.
-- 📊 Generated dataset statistics and interactive visualizations.
-- 📄 Implemented downloadable PDF report generation.
-- 🔗 Integrated multiple application modules into a unified Streamlit dashboard.
-- 🧪 Tested application features and verified data processing accuracy.
-- 📝 Contributed to project documentation and reporting.
-- 🤝 Collaborated effectively with the development team throughout the project lifecycle.
+- 🧹 Built automated data cleaning modules.
+- 📊 Calculated dataset statistics.
+- 🔍 Detected missing values and duplicate records.
+- 💰 Implemented price prediction functionality.
+- 📄 Developed PDF report generation.
+- 📈 Created interactive Streamlit dashboards.
+- 🧪 Performed application testing and validation.
+- 📝 Prepared technical documentation.
+- 🤝 Collaborated with team members during project development.
 
 ---
 
@@ -326,7 +266,7 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaydheer12&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaydheer12&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -345,16 +285,16 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 <div align="center">
 
-| Certification | Organization |
-|---------------|--------------|
-| 🐍 Python Essentials 1 | Cisco |
-| 🐍 Python Essentials 2 | Cisco |
-| 💻 C Programming | Cisco |
-| 🌐 HTML5 Application Development | Infosys Springboard |
-| 📄 MS Word Certification | Infosys Springboard |
-| ✍️ Business Writing | edX |
-| 🎓 MePro Pearson Certification | Pearson |
-| 💼 MERN Stack Developer Internship | ADHOC Network Technologies |
+| 🏅 Certification | 🏢 Organization |
+|------------------|-----------------|
+| Python Essentials 1 | Cisco Networking Academy |
+| Python Essentials 2 | Cisco Networking Academy |
+| C Programming | Cisco Networking Academy |
+| HTML5 Application Development | Infosys Springboard |
+| MS Word Certification | Infosys Springboard |
+| Business Writing | edX |
+| MePro Pearson Certification | Pearson |
+| MERN Stack Developer Internship | ADHOC Network Technologies |
 
 </div>
 
@@ -362,19 +302,38 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 # 🌱 Currently Learning
 
-<div align="center">
+<table>
 
-| 🚀 Technology | 🎯 Goal |
-|---------------|----------|
-| React.js | Build Modern Frontend Applications |
-| Node.js & Express.js | Backend Development |
-| MongoDB | Database Management |
-| Artificial Intelligence | AI Applications |
-| Machine Learning | Smart Solutions |
-| Data Structures & Algorithms | Improve Problem Solving |
-| Cloud Computing | Cloud Deployment |
+<tr>
 
-</div>
+<td>
+
+### 📚 Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Cloud Computing
+- Advanced Python
+- Software Engineering Best Practices
+
+</td>
+
+<td>
+
+### 🎯 Focus Areas
+
+- Building Full Stack Applications
+- AI-Powered Solutions
+- Problem Solving
+- Backend Development
+- Clean Code Practices
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -382,47 +341,47 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 ✅ Become a Professional Full Stack Developer
 
-✅ Build AI-powered Applications
+✅ Build AI-Powered Applications
 
-✅ Master MERN Stack Development
+✅ Master Backend Development
 
-✅ Contribute to Open Source Projects
+✅ Contribute to Open Source
 
-✅ Strengthen Data Structures & Algorithms
+✅ Continuously Learn New Technologies
 
 ✅ Secure a Software Engineer / Full Stack Developer Role
 
 ---
 
-# 🤝 Open To Collaborate
+# 🤝 Open to Collaborate
 
 - 🌐 Full Stack Development Projects
+- 🐍 Python Projects
 - 🤖 Artificial Intelligence Projects
-- 🐍 Python Applications
-- 📊 Data Analytics Projects
+- 📊 Data Analysis Projects
 - 🚀 Startup Ideas
 - 💼 Freelance Opportunities
-- 📚 Open Source Contributions
+- 🌍 Open Source Contributions
 
 ---
 
 # 💻 Coding Profiles
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/jaydheer12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/jaydheerpalika">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 📈 GitHub Profile Summary
+# 📊 GitHub Profile Summary
 
 <p align="center">
 
@@ -432,7 +391,7 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 ---
 
-# 📊 GitHub Metrics
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -444,13 +403,23 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** Enable this by creating a GitHub Actions workflow in your profile repository.
+# 📅 GitHub Activity
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/jaydheer12/jaydheer12/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydheer12&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable this animation by creating a GitHub Actions workflow in your profile repository.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/jaydheer12/jaydheer12/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </p>
 
@@ -460,7 +429,7 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 <div align="center">
 
-### *"Success is built one project at a time. Keep learning, keep building, and never stop improving."*
+### *"Learning never stops. Every project is an opportunity to improve, innovate, and grow."*
 
 </div>
 
@@ -468,16 +437,18 @@ Worked on the **E-Commerce Product Data Cleaning Dashboard**, contributing to ba
 
 # ❤️ Support My Work
 
-If you like my projects, consider giving them a ⭐ on GitHub.
+If you find my projects helpful, please consider giving them a ⭐ on GitHub.
 
-Your support motivates me to build more useful applications.
+It motivates me to continue learning and building better applications.
 
 ---
 
 <div align="center">
 
-## Thank You for Visiting My Profile! 🙏
+## 🙏 Thank You for Visiting My Profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0E75B6,100:00C9A7&height=130&section=footer"/>
+### ⭐ Happy Coding! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
 
 </div>
