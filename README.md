@@ -1,53 +1,30 @@
-<!-- ========================================= -->
-<!--           GITHUB PROFILE README           -->
-<!--          Created for Palika Jaydheer      -->
-<!-- ========================================= -->
-
-<h1 align="center">
-  Hi 👋, I'm Palika Jaydheer
-</h1>
+<h1 align="center">Hi 👋, I'm Palika Jaydheer</h1>
 
 <h3 align="center">
 Full Stack Developer | Aspiring AI Engineer | BCA Graduate
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Aspiring+AI+Engineer;Python+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Aspiring+AI+Engineer;Python+Developer;Building+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jaydheer12&label=Profile+Views&color=blue&style=for-the-badge"/>
+
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 # 💫 About Me
 
-🎓 BCA Graduate from Aditya Degree College, Kakinada
+🎓 BCA Graduate from Aditya Degree College, Kakinada.
 
-💻 Passionate Full Stack Developer with a strong interest in building modern web applications.
+💻 Passionate Full Stack Developer with strong knowledge of Python, Web Development and MERN Stack fundamentals.
 
-🚀 I enjoy solving real-world problems through technology and continuously learning new tools.
+🚀 I love building practical web applications and solving real-world problems through technology.
 
-🤖 Currently preparing for a career in Full Stack Development while expanding my knowledge in Artificial Intelligence.
-
-🌱 Always excited to explore new technologies and collaborate on meaningful projects.
-
----
-
-# 🌍 Location
-
-📍 Kakinada, Andhra Pradesh, India
-
----
-
-# 🎯 Career Objective
-
-Seeking opportunities as a
-
-- Full Stack Developer
-- AI Engineer
-- Python Developer
-
-where I can contribute, learn and grow while building impactful software solutions.
+🤖 Currently learning Full Stack Development and Artificial Intelligence to become an industry-ready software engineer.
 
 ---
 
@@ -67,135 +44,147 @@ where I can contribute, learn and grow while building impactful software solutio
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://www.hackerrank.com/profile/jaydheerpalika">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
----
-
-## 🌐 Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
----
-
-## ⚙ Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
----
+### Database
 
-## 🗄 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
----
+### Tools
 
-## 🧰 Tools
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
----
-
-## 💡 Interests
-
-🌐 Web Development
-
-🤖 Artificial Intelligence
-
-📈 Financial Markets
-
-📚 Continuous Learning
 
 ---
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🎓 Student Performance Analysis
 
-A data-driven web application built using **Python** and **Streamlit** that analyzes student academic performance and presents meaningful insights through interactive visualizations.
+📊 A data analysis application built with **Python** and **Streamlit** that helps analyze student performance through interactive charts and insights.
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+- Python
+- Streamlit
+- Pandas
 
 🔗 **GitHub**
+
 https://github.com/jaydheer12/Student-Performance-Analysis-BootCamp-
 
 🌐 **Live Demo**
+
 https://k7ncnkrrmc8su9qwsxuyrn.streamlit.app/
 
----
+</td>
+
+<td width="50%">
 
 ## 🛒 Ecommerce Product Data Cleaning
 
-A data preprocessing application that cleans, transforms and prepares e-commerce product datasets for analytics and machine learning.
+🛍️ A web application that cleans, transforms and preprocesses e-commerce product datasets for better analysis and machine learning workflows.
 
 **Tech Stack**
 
-Python • Pandas • Streamlit
+- Python
+- Pandas
+- Streamlit
 
-🔗 GitHub
+🔗 **GitHub**
 
 https://github.com/jaydheer12/Ecommerce
 
-🌐 Live Demo
+🌐 **Live Demo**
 
 https://ecommerce-bn7gra5ar7azp9othhf9j4.streamlit.app/
 
----
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ## 🎬 Movie Review Portal
 
-A modern Movie Review platform where users can browse movies, submit reviews and ratings through an interactive interface.
+🎥 A modern movie review platform where users can browse movies, submit ratings, and share reviews using a simple and interactive interface.
 
 **Tech Stack**
 
-Python • Streamlit
+- Python
+- Streamlit
 
-🔗 GitHub
+🔗 **GitHub**
 
 https://github.com/jaydheer12/Movie-Review
 
-🌐 Live Demo
+🌐 **Live Demo**
 
 https://movie-review-yuxr32nmdkfsyj8ca8fafs.streamlit.app/
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 📊 GitHub Statistics
+# 💼 Internship Experience
+
+## MERN Stack Developer Intern
+
+**ADHOC Network Tech**
+
+📅 April 2025 – June 2025
+
+### Responsibilities
+
+- Built responsive full-stack web applications.
+- Worked with MongoDB, Express.js, React.js and Node.js.
+- Developed REST APIs.
+- Implemented CRUD operations.
+- Improved frontend routing and UI development.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=jaydheer12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaydheer12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydheer12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydheer12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -230,8 +219,85 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydheer12&l
 </p>
 
 ---
+# 🏆 Certifications
 
-# ⚡ Profile Summary
+- 🥇 Cisco Python Essentials 1
+- 🥇 Cisco Python Essentials 2
+- 🥇 Cisco C Programming
+- 🥇 HTML5 Application Development
+- 🥇 MePro Pearson
+- 🥇 Infosys Springboard – MS Word
+- 🥇 edX – Business Writing
+- 🥇 MERN Stack Developer Internship – ADHOC Network Tech
+
+---
+
+# 🌱 Currently Learning
+
+- 🚀 React.js
+- 🚀 Node.js & Express.js
+- 🚀 MongoDB
+- 🚀 Data Structures & Algorithms
+- 🚀 Artificial Intelligence & Machine Learning
+- 🚀 Cloud Computing (AWS Basics)
+
+---
+
+# 🎯 2026 Goals
+
+🎯 Become a Professional Full Stack Developer
+
+🎯 Build AI-powered Web Applications
+
+🎯 Master MERN Stack Development
+
+🎯 Strengthen Problem Solving Skills
+
+🎯 Contribute to Open Source Projects
+
+🎯 Secure a Software Engineer / Full Stack Developer Role
+
+---
+
+# 🤝 Open to Collaborate
+
+✔ Open Source Projects
+
+✔ Python Projects
+
+✔ Full Stack Web Applications
+
+✔ AI & Machine Learning Projects
+
+✔ Startup Ideas
+
+✔ Freelance Opportunities
+
+---
+
+# 📊 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/jaydheer12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/jaydheerpalika">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote I Believe In
+
+> **"Learning never stops. Every project is an opportunity to improve, innovate, and grow."**
+
+---
+
+# 📈 GitHub Profile Summary
 
 <p align="center">
 
@@ -241,115 +307,32 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydheer12&l
 
 ---
 
-# 📌 Quote
-
-> **"Success doesn't come from what you know; it comes from what you consistently build and improve."**
-
----
----
-
-# 🏆 Certifications
-
-🎖️ Cisco Python Essentials 1
-
-🎖️ Cisco Python Essentials 2
-
-🎖️ HTML5 Application Development Certification
-
-🎖️ Cisco C Programming Certification
-
-🎖️ MePro Pearson Certification
-
-🎖️ Infosys Springboard – MS Word Certification
-
-🎖️ edX – Business Writing Certification
-
-🎖️ MERN Stack Developer Internship – ADHOC Network Tech
-
----
-
-# 📚 Currently Learning
-
-🚀 React.js
-
-🚀 Node.js & Express.js
-
-🚀 MongoDB
-
-🚀 Data Structures & Algorithms
-
-🚀 Artificial Intelligence & Machine Learning
-
-🚀 Cloud Computing
-
----
-
-# 🤝 Open to Collaborate
-
-✅ Open Source Projects
-
-✅ Full Stack Development Projects
-
-✅ Python Projects
-
-✅ AI & Machine Learning Projects
-
-✅ Startup Ideas
-
-✅ Freelance Opportunities
-
----
-
-# 🎯 2026 Goals
-
-🎯 Build impactful Full Stack applications
-
-🎯 Master the MERN Stack
-
-🎯 Learn AI & Machine Learning
-
-🎯 Strengthen DSA & Problem Solving
-
-🎯 Contribute to Open Source
-
-🎯 Secure a Software Engineer / Full Stack Developer role
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jaydheer12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jaydheer12/jaydheer12/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-> **Note:** This animation works after you set up a GitHub Actions workflow in your profile repository.
-
----
-
-# 💖 Thanks for Visiting!
+> **To enable this animation, create a GitHub Actions workflow in your profile repository.**
 
 <p align="center">
 
-⭐ If you like my projects, consider giving them a star!
+<img src="https://raw.githubusercontent.com/jaydheer12/jaydheer12/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </p>
 
 ---
 
+# ❤️ Thanks for Visiting My Profile!
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6A5ACD&height=120&section=footer"/>
+⭐ If you like my projects, don't forget to star the repositories.
+
+Let's connect, collaborate, and build something amazing together!
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
 
 </p>
