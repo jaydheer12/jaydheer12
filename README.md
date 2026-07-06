@@ -226,8 +226,6 @@ A responsive movie review platform where users can browse movies, rate films, an
 
 📅 **December 2026 – March 2026**
 
-📅 **2026**
-
 Successfully completed my final-year internship by developing an **E-Commerce Product Data Cleaning Dashboard**, applying Python and data analytics techniques to solve real-world data preprocessing challenges.
 
 ### 🔹 Responsibilities
